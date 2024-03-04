@@ -61,7 +61,7 @@
    "rev": "8be0b69cd52728b6359c4b5ce142a16a13e834cf",
    "name": "mathlib",
    "manifestFile": "lake-manifest.json",
-   "inputRev": null,
+   "inputRev": "8be0b69cd52728b6359c4b5ce142a16a13e834cf",
    "inherited": false,
    "configFile": "lakefile.lean"}],
  "name": "cot",

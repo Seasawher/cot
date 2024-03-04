@@ -12,7 +12,7 @@ package «cot» where
   -- add any additional package configuration options here
 
 require mathlib from git
-  "https://github.com/leanprover-community/mathlib4.git"
+  "https://github.com/leanprover-community/mathlib4.git" @ "8be0b69cd52728b6359c4b5ce142a16a13e834cf"
 
 @[default_target]
 lean_lib «Cot» where
